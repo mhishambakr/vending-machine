@@ -1,6 +1,6 @@
 # vending-machine
 
-To run the project:
+## To run the project:
 
 1- update the db.config.js with your sql user and password and the database name
 
